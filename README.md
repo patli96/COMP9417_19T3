@@ -1,4 +1,9 @@
 # COMP9417_Project
+
+## [Project Specs](https://github.com/xxicypatxx/COMP9417_19T3/blob/master/ProjectSpecification.pdf)
+
+## [Project Report](https://github.com/xxicypatxx/COMP9417_19T3/blob/master/project_report.pdf)
+
 ## pre_processing.py
 This file will extract features from dataset and generate two .csv files:
     1. paper_feature.csv
